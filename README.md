@@ -18,31 +18,31 @@ dependencies into right places
 ### Plaifair Display ###
 
 * **Description**
-Play­fair is a trans­itional design, that is well suited for titling and 
-head­lines. It has an extra large x-height and short des­cend­ers. It can be set
-with no lead­ing if space is tight, for instance in news head­lines, or for
-styl­istic effect in titles. Cap­it­als are extra short, and only very slightly
-heav­ier than the lower­case char­ac­ters. This helps achieve a more even
-typo­graph­ical col­our when type­set­ting proper nouns and ini­tial­isms.
-Lan­guages, like Ger­man, where nouns are cap­it­al­ized, par­tic­u­larly bene­fit from
-this lower con­trast between lower and upper case glyphs. In Ger­man, with it’s
-many cap­it­al­ized words, and other European lan­guages that use many dia­crit­ical
-char­ac­ters, it is advised to use more leading.
+Playfair is a transitional design, that is well suited for titling and
+headlines. It has an extra large x-height and short descenders. It can be set
+with no leading if space is tight, for instance in news headlines, or for
+stylistic effect in titles. Capitals are extra short, and only very slightly
+heavier than the lower­case characters. This helps achieve a more even
+typographical colour when typesetting proper nouns and initialisms.
+Languages, like German, where nouns are capitalized, particularly benefit from
+this lower contrast between lower and upper case glyphs. In German, with it’s
+many capitalized words, and other European languages that use many diacritical
+characters, it is advised to use more leading.
 
-Play­fair includes a full set of small-caps, com­mon lig­at­ures, and dis­cre­tion­ary
-lig­at­ures. For Pol­ish, a set of altern­ate dia­crit­ical char­ac­ters designed with
+Playfair includes a full set of smallcaps, common ligatures, and discretionary
+ligatures. For Polish, a set of alternate diacritical characters designed with
 ‘kreska’s are included. All European lan­guages using the latin script are
-sup­por­ted. A set of eight arrow devices are also included.
+supported. A set of eight arrow devices are also included.
 
-Play­fair Dis­play also cover the cyril­lic glyphs used in Bul­garian, Belarus­ian,
- Rus­sian, Bosnian/Serbian (includ­ing Ser­bian mor­pho­logy for б), and Ukrainian.
+Playfair Display also cover the cyrillic glyphs used in Bulgarian, Belarusian,
+ Russian, Bosnian/Serbian (including Serbian morphology for б), and Ukrainian.
 
-Play­fair Dis­play comes in three weights and two styles, includ­ing small-caps
-for all weights and styles – also for the cyrillic.
+Playfair Display comes in three weights and two styles, including smallcaps
+for all weights and styles - also for the cyrillic.
 
-Play­fair Dis­play is pub­lished under the SIL Open Font License Version 1.1, 
-grant­ing you license to use the fonts free of charge, and enables you to 
-extend & modify the fam­ily should you wish to.
+Playfair Display is published under the SIL Open Font License Version 1.1,
+granting you license to use the fonts free of charge, and enables you to
+extend & modify the family should you wish to.
 
 * **Copyright**
 Copyright (c) 2005–2015 by Claus Eggers Sørensen
