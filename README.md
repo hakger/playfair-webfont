@@ -5,17 +5,24 @@ Contains font files, less, scss, and CSS.
 
 ## Use ##
 
-1. Use Bower to install the aleo package
+1. Use Bower to install the playfair package
   ```sh
   bower install playfair-webfont --save
   ```
 
 2. Use [Wiredep](https://github.com/taptapship/wiredep) to wire appropriate
-dependencies into right places
+dependencies into right places, or link manually to
+ - css/playfair-webfont.min.css
+ - less/playfair-webfont.less
+ - scss/playfair-webfont.scss
+
 
 ## Font Info ##
 
 ### Plaifair Display ###
+
+* **Version**
+Version 1.005
 
 * **Description**
 Playfair is a transitional design, that is well suited for titling and
@@ -54,6 +61,11 @@ Claus Eggers Sørensen
 
 * **Vendor URL**
 http://forthehearts.net/
+
+* **Webfont SIL OFL Compliance**
+Font files in /fonts are taken directly form Author's repository, no
+modiffication, subclassing or anything that would break Functional Equivalence
+was done to font files, thus allowing this package to use name Playfair.
 
 
 ## Development Info ##
