@@ -1,16 +1,16 @@
 {
   "name": "playfair-webfont",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/hakger/playfair-webfont",
   "authors": [
     "Hubert Kowalski <h.kowalski@hakger.pl>"
   ],
   "description": "Playfair Display Webfont Bower Package",
   "main": [
-      "./css/playfair-webfont.css",
-      "./less/playfair-webfont.less",
-      "./sass/playfair-webfont.scss",
-      "./fonts/*"
+    "./css/playfair-webfont.css",
+    "./less/playfair-webfont.less",
+    "./sass/playfair-webfont.scss",
+    "./fonts/*"
   ],
   "keywords": [
     "playfair",
@@ -25,7 +25,10 @@
     "fontkit",
     "serif"
   ],
-  "license": ["OFL-1.1", "MIT"],
+  "license": [
+    "OFL-1.1",
+    "MIT"
+  ],
   "ignore": [
     "**/.*"
   ]
