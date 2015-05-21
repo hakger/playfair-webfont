@@ -1,4 +1,4 @@
-# Plaifair Webfont #
+# Playfair Webfont #
 
 Playfair Display webfont package, optimized for Bower and gulp-flatten.
 Contains font files, less, scss, and CSS.
@@ -19,7 +19,7 @@ dependencies into right places, or link manually to
 
 ## Font Info ##
 
-### Plaifair Display ###
+### Playfair Display ###
 
 * **Version**
 Version 1.005
