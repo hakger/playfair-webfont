@@ -9,7 +9,7 @@
   "main": [
     "./css/playfair-webfont.css",
     "./less/playfair-webfont.less",
-    "./sass/playfair-webfont.scss",
+    "./scss/playfair-webfont.scss",
     "./fonts/*"
   ],
   "keywords": [
